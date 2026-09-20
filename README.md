@@ -1,9 +1,6 @@
 # Hi there, I'm Muhammad Fikri Al Haidar 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=303a74&height=200&section=header&text=Muhammad%20Fikri%20Al%20Haidar&fontSize=42&fontAlignY=38&desc=Business%20IT%20Student%20@%20BINUS&descAlignY=62&descAlign=50">
-  <img alt="Fikri's Banner" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Muhammad%20Fikri%20Al%20Haidar&fontSize=42&fontAlignY=38&desc=Business%20IT%20Student%20@%20BINUS&descAlignY=62&descAlign=50">
-</picture>
+[![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Muhammad%20Fikri%20Al%20Haidar&fontSize=40&fontAlignY=38&desc=Business%20Information%20Technology%20Student%20@BINUS&descAlignY=62&descAlign=50)](https://github.com/Alhaidar13)
 
 ### 💬 About Me
 * 🎓 Undergraduate student in **Business Information Technology** at **BINUS University**
@@ -44,9 +41,9 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alhaidar13&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Alhaidar13&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alhaidar13&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alhaidar13&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
